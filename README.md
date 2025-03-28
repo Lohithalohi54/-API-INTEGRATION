@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/fc932a2b-49d7-485a-a906-d8af15346543)# -API-INTEGRATION
+API-INTEGRATION
+
 NAME :Sankipalligudem Lohitha
 
 Company :CODETECH IT SOLUTIONS
